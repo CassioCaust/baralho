@@ -1,0 +1,2 @@
+# baralho
+Crud de cartas
